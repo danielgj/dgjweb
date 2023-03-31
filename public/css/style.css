@@ -44,6 +44,7 @@ body {
 .socialContainer {
     display: flex;
     justify-content: center;
+    vertical-align: middle;
 }
 
 img.social {
@@ -69,3 +70,8 @@ footer > p {
     }
 }
 
+img.manfred {
+    margin-top: 8px;
+    width: 46px;
+    height: 46px;
+}
